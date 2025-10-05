@@ -25,3 +25,11 @@ Classification: Group flights into three categories — Difficult, Medium, or Ea
 Summarize which destinations consistently show more difficulty.
 What are the common drivers for those flights?
 What specific actions would you recommend based on the findings for better operational efficiency?
+
+
+<img width="867" height="497" alt="United airlines dashboard" src="https://github.com/user-attachments/assets/07941e35-a3f8-44ed-af1a-b4254804bf31" />
+
+
+<img width="839" height="472" alt="05 10 2025_21 38 56_REC" src="https://github.com/user-attachments/assets/9ff98b7e-6dab-4e4f-938a-a75468d203e4" />
+
+
